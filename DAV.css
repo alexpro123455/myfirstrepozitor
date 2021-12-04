@@ -1,0 +1,12 @@
+p {font-size: 300%;
+color:cyan;}
+body{background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/blue-roses-h-cooper.jpg")
+}
+a:visited{color:darkblue;}
+a:hover{color: darkgreen;}
+a:active{color:darkolivegreen;}
+  p{background-color: rgba(255, 140, 0, 0.699);border: 16px double rgb(54, 48, 138) ;}
+  p{padding: 10px ;}
+  img{margin-left: 25%; margin-right: 20%;}
+
+
